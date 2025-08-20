@@ -1,7 +1,9 @@
 # Hey there, I'm Chimemela Ohuegbe! 👋 (aka ellie-the-dev)
 
 ## 🚀 About Me
-Currently mastering MERN, one commit at a time 🚀"
+Currently mastering MERN, one commit at a time 🚀
+Officially joined GitHub and started React journey on 19th August,2025
+Excited to see how i grow from here!
 
 ## 📈 GitHub Stats
 ![ellie-the-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellie-the-dev&show_icons=true&theme=radical)
