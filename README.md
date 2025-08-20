@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hey there, I'm Chimemela Ohuegbe! 👋 (aka ellie-the-dev)
+
+## 🚀 About Me
+Currently mastering MERN, one commit at a time 🚀"
+
+## 📈 GitHub Stats
+![ellie-the-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellie-the-dev&show_icons=true&theme=radical)
+
+## 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/in/your-linkedin)  ](https://www.linkedin.com/in/chimemela-blessed-ohuegbe-b4a78037b/)
+
 
 <!--
 **ellie-the-dev/ellie-the-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
