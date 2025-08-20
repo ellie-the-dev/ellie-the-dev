@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 Currently mastering MERN, one commit at a time 🚀
+<br>
 Officially joined GitHub and started React journey on 19th August,2025
+<br>
 Excited to see how i grow from here!
 
 ## 📈 GitHub Stats
